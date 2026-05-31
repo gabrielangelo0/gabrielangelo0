@@ -2,26 +2,45 @@
   <img src="https://github.com/user-attachments/assets/fd97d96b-0a16-467f-b098-4da91081a2d2" alt="Gabriel Angelo Banner" width="100%" />
 </p>
 
-# Gabriel Angelo
+<h1 align="center">Gabriel Angelo</h1>
 
-Software Engineer • SaaS Builder • Automation Engineer
+<p align="center">
+  <strong>Software Engineer</strong> •
+  <strong>SaaS Builder</strong> •
+  <strong>Automation Engineer</strong>
+</p>
 
-Building SaaS platforms, mobile applications and automation solutions.
+<p align="center">
+  Building scalable SaaS platforms, mobile applications and automation solutions.
+</p>
 
-Focused on Node.js, Golang, React Native, AI integrations and workflow automation.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-angelo0/">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabrielangelolira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Currently working with scalable systems, WhatsApp integrations and cloud architecture.
+---
+
+### 🚀 Currently Building
+
+- SaaS Platforms
+- WhatsApp Integrations
+- AI-Powered Solutions
+- React Native Applications
+- Workflow Automation with n8n
+
+### ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,go,firebase,supabase,postgres,redis,docker" />
 </p>
 
-<p align="center">
-  <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+### 💼 Experience
 
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**PontoGO • PeopleNity • Homefly • MeuProcesso**
+
+Building scalable products, integrations and automation platforms.
