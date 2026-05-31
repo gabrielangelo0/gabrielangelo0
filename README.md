@@ -1,45 +1,53 @@
-<h1 align="center">Hi 👋, I'm Gabriel Angelo</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer focused on SaaS, Mobile Apps, Automation and Scalable Integrations
-</h3>
+<img src="https://github.com/user-attachments/assets/fd97d96b-0a16-467f-b098-4da91081a2d2" alt="Gabriel Angelo Banner" width="100%" />
 
-<p align="center">
-Building products with Node.js, Golang, React Native and Cloud Technologies.
-</p>
+
+# Gabriel Angelo
+
+### Software Engineer
+
+**SaaS Builder • Automation Engineer**
+
+Building scalable products, automation platforms and mobile applications.
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer with experience building scalable applications, mobile solutions and business automation platforms.
+I'm a Software Engineer focused on building scalable systems, SaaS platforms and business automation solutions.
 
-Currently working with:
+Over the last few years, I've worked on:
 
-- ⚡ Node.js & Golang APIs
-- 📱 React Native Applications
-- 🤖 AI-Powered Solutions
-- 🔗 WhatsApp Integrations
-- ☁️ Firebase & Supabase
-- 🚀 SaaS Platforms
-- 🔄 Workflow Automation with n8n
+- 📍 Geolocation & attendance management systems
+- 🤖 AI-powered workflows and automation
+- 📞 WhatsApp integrations and customer service platforms
+- 💳 Subscription management systems
+- 📱 Mobile applications with React Native
+- ☁️ Cloud-based architectures using Firebase and Supabase
+
+My goal is simple: transform complex business problems into reliable and scalable software.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,go,firebase,supabase,postgres,mysql,redis,docker,git,github" />
-</p>
+
+</div>
 
 ---
 
 ## 💡 Core Expertise
 
 - Software Architecture
+- SaaS Development
 - REST APIs
 - Mobile Development
-- SaaS Development
 - WhatsApp Automation
 - AI Integrations
 - Cloud Infrastructure
@@ -49,23 +57,37 @@ Currently working with:
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 ### 📞 WhatsApp Automation Platform
 
 Automation platform integrating AI assistants and human support workflows.
 
+**Stack:** Node.js, Redis, Docker, WhatsApp APIs
+
+---
+
 ### 💳 Subscription Management System
 
 Real-time subscription synchronization using Asaas webhooks and Firebase.
+
+**Stack:** Node.js, Firebase, Firestore, Asaas
+
+---
 
 ### 📍 Attendance & Geolocation Platform
 
 GPS tracking, virtual fences and workforce management solutions.
 
+**Stack:** React Native, Firebase, Geolocation APIs
+
+---
+
 ### 📱 Mobile CRM & Kanban
 
 React Native application with dynamic pipelines and drag-and-drop experience.
+
+**Stack:** React Native, TypeScript, Expo
 
 ---
 
@@ -78,24 +100,15 @@ React Native application with dynamic pipelines and drag-and-drop experience.
 - Homefly
 - MeuProcesso
 
-Working on scalable products, integrations and business platforms.
+Focused on scalable products, integrations and business automation platforms.
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 Current Focus
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielangelo0&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn
-- Instagram
-- Email
-
----
-
-⭐ Always building, learning and sharing.
+```text
+🚀 SaaS Development
+🤖 AI & Automation
+📱 React Native Applications
+⚡ Node.js & Golang APIs
+☁️ Cloud Architecture
