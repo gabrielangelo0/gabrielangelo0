@@ -1,42 +1,101 @@
+<h1 align="center">Hi 👋, I'm Gabriel Angelo</h1>
 
-## Olá! Eu sou Gabriel Angelo
-<div align="center" style="display: flex, flex-direction: row, gap: 20rem">
-  <a href="https://github.com/gabrielangelo0">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=gabrielangelo0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielangelo0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<h3 align="center">
+Full Stack Developer focused on SaaS, Mobile Apps, Automation and Scalable Integrations
+</h3>
 
-##
-  
-<div>
-  <a href="https://instagram.com/gabriel.angelo__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielangelolira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-angelo-9a7943232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-![Snake animation](https://github.com/gabrielangelo0/gabrielangelo0/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+Building products with Node.js, Golang, React Native and Cloud Technologies.
+</p>
 
+---
 
+## 🚀 About Me
 
+I'm a Full Stack Developer with experience building scalable applications, mobile solutions and business automation platforms.
 
-<!--
-**gabrielangelo0/gabrielangelo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working with:
 
-Here are some ideas to get you started:
+- ⚡ Node.js & Golang APIs
+- 📱 React Native Applications
+- 🤖 AI-Powered Solutions
+- 🔗 WhatsApp Integrations
+- ☁️ Firebase & Supabase
+- 🚀 SaaS Platforms
+- 🔄 Workflow Automation with n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,go,firebase,supabase,postgres,mysql,redis,docker,git,github" />
+</p>
+
+---
+
+## 💡 Core Expertise
+
+- Software Architecture
+- REST APIs
+- Mobile Development
+- SaaS Development
+- WhatsApp Automation
+- AI Integrations
+- Cloud Infrastructure
+- Workflow Automation
+- Database Design
+- Real-Time Systems
+
+---
+
+## 🏆 Featured Projects
+
+### 📞 WhatsApp Automation Platform
+
+Automation platform integrating AI assistants and human support workflows.
+
+### 💳 Subscription Management System
+
+Real-time subscription synchronization using Asaas webhooks and Firebase.
+
+### 📍 Attendance & Geolocation Platform
+
+GPS tracking, virtual fences and workforce management solutions.
+
+### 📱 Mobile CRM & Kanban
+
+React Native application with dynamic pipelines and drag-and-drop experience.
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer
+
+- PontoGO
+- PeopleNity
+- Homefly
+- MeuProcesso
+
+Working on scalable products, integrations and business platforms.
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielangelo0&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Instagram
+- Email
+
+---
+
+⭐ Always building, learning and sharing.
